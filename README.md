@@ -1,1 +1,4 @@
 # Digit-recognition
+This is a 5 layered sequeuntial convolutional neural network.
+Used MNIST data set for training
+Achieved an accuracy of 99.14% on 30 epochs
